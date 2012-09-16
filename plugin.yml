@@ -1,0 +1,7 @@
+name: Janitor
+main: no.jckf.janitor.Janitor
+version: 1.0
+commands:
+    janitor:
+       description: Controls maintenance mode.
+       usage: /<command> <on/off>
